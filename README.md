@@ -17,7 +17,7 @@
 
 ###
 
-<h6 align="center">This is ME, Imesha Udani. First year undergraduate, from Institute of Java Software Engineering<br>Aspiring Front End Software Developer  and a Competitive Programming Enthusiast  ,<br>who is obsessed with the idea of improving himself and wants a platform to grow and excel  .<br> Learning while HOPING & HUSTLING!!! <br><br><br>- 💳 My full name is Vihanga Gagagnatharu<br>- 🏫 I'm currently a 1st year student at Institute of Java Software Engineering<br>- 📚 My major is Game Developer<br>- 🌏 I live in Galle, Sri Lanka<br>- 😅 I'm a newbie in coding, know Java language, MySQL.<br>- 🧐 I'm interested in Coding,,Sleeping,,Playing Video Games and watching tech-based .......<br>- 😎 My quote is "The Best is Yet to Be -Never Give Up"<br>- 👌 Fun fact: have problem 👉 sleep, happy 👉 sleep, sad 👉 sleep ~~ everything 👉 sleep</h6>
+<h6 align="center">This is ME, Imesha Udani. First year undergraduate, from Institute of Java Software Engineering<br>Aspiring Front End Software Developer  and a Competitive Programming Enthusiast  ,<br>who is obsessed with the idea of improving himself and wants a platform to grow and excel  .<br> Learning while HOPING & HUSTLING!!! <br><br><br>- 💳 My full name is Weerasingha Pathiranage Imesha Udani <br>- 🏫 I'm currently a 1st year student at Institute of Java Software Engineering<br>- 📚 My major is Fullstack Developer <br>- 🌏 I live in Galle, Sri Lanka<br>- 😅 I'm a newbie in coding, know Java language, MySQL.<br>- 🧐 I'm interested in Coding,,Sleeping, and watching tech-based .......<br>- 😎 My quote is "The Best is Yet to Be -Never Give Up"<br>- 👌 Fun fact: have problem </h6>
 
 ###
 
